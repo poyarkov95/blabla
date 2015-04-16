@@ -1,0 +1,8 @@
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.Form1.resources
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\bin\Debug\Conference.exe
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\bin\Debug\Conference.pdb
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.exe
+c:\users\andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.pdb
+C:\Users\Andrey\documents\visual studio 2010\Projects\Conference\obj\x86\Debug\Conference.csprojResolveAssemblyReference.cache
